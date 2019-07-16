@@ -19,5 +19,6 @@ public class Calculations {
 		
 		System.out.println("Substraction of a and b is:"+c);
 	}
-
+	
+	System.out.println("print c value:" +c);
 }

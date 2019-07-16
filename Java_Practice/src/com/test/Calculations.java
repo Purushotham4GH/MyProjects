@@ -8,7 +8,16 @@ public class Calculations {
 	
 	public void Sum(){
 		
+		c= a+b;
+		
 		System.out.println("Sum of a and b is:" +c);
+	}
+	
+	public void Sub(){
+		
+		c=a-b;
+		
+		System.out.println("Substraction of a and b is:"+c);
 	}
 
 }
